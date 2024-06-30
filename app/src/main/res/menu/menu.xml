@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/option1"
+        android:title="Vietnamese" />
+    <item
+        android:id="@+id/option2"
+        android:title="Taiwanese" />
+    <item
+        android:id="@+id/option3"
+        android:title="English" />
+    <item
+        android:id="@+id/option4"
+        android:title="Chinese" />
+    <item
+        android:id="@+id/option5"
+        android:title="Japanese" />
+</menu>
